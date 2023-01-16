@@ -15,7 +15,7 @@ agreement or the standardized data exchange protocols, the two ontologies
 are not in sync. The developers of MONDO and HPO work closely together.
 Although the phenotypes and diseases are not always the same,  these two
 ontologies end up overlapping with each other, especially within the rare
-disease domain. The overlaps across these three ontologies were not
+disease and infectious disease domain. The overlaps across these three ontologies were not
 properly mapped and referenced, which creates problems including users’
 confusion in adoption, and introduces siloed data systems. This project
 aims to create a FAIR and harmonized ontology for diseases and phenotypes
@@ -33,7 +33,7 @@ The objectives for the hackathon includes, but not limited to:
 	   2. Coverage
 	   3. Number and quality of removed axioms
 	   4. Application based quantitative evaluation.
-   2. Release the ontology (v.1) following the FAIR principles.
+   2. Release the ontology (v.1) following the FAIR principles, using immune-mediated and infectious disease as example.
    3. Write up a draft manuscript for publication.
 
 
